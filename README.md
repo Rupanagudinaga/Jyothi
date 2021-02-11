@@ -2,7 +2,7 @@
 Day1
 ## Basic Linux Commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername
