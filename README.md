@@ -5,7 +5,7 @@ Day1
 - cd
 - ls
 - ls -a
-- midir foldername
+- mkdir foldername
 - rmdir foldername
 - rm filename
 - cd ../
